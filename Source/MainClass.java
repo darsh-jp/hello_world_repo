@@ -27,9 +27,4 @@ public class FindLargestSmallestNumber {
                 System.out.println("Smallest Number is : " + smallest);
         }
 }
- 
-/*
-Output of this program would be
-Largest Number is : 98
-Smallest Number is : 23
-*/
+// Removed Unnecessary Comments 
